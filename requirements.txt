@@ -4,3 +4,4 @@ youtube_transcript_api
 chromadb 
 tiktoken
 pytube
+pysqlite3-binary
